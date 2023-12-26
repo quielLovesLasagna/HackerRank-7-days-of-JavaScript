@@ -6,4 +6,4 @@ This repository contains all my solutions for the 7 days of JavaScript in [Hacke
 
 ## Quick note
 
-I stopped taking Challenges at **Day 6 - 03**, I don't know how to complete the subsequent challenges XD.
+I stopped taking Challenges at **Day 6 - 03**, I don't know how to complete the subsequent challenges XD. I still lack the skill to fully understand the problem and implement a proper solution at this point.
